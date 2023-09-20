@@ -1,0 +1,22 @@
+package exemploDidatico1.app;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import exemploDidatico1.services.PensionService;
+import exemploDidatico1.services.TaxService;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		
+		Scanner sc = new Scanner(System.in);
+		
+		TaxService taxService = new TaxService();
+		PensionService pensionService = new PensionService();
+		
+		
+	}
+
+}
