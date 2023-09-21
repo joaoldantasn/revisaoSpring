@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="exemploDidatico1.services.SalaryService"/>
+    <fullyQualifiedTypeName name="exemploDidatico1.services.TaxService"/>
 </qualifiedTypeNameHistroy>
