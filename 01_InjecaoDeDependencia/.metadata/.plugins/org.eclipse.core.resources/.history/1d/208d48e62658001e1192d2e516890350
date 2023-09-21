@@ -4,7 +4,6 @@ import java.util.Locale;
 import java.util.Scanner;
 
 import exemploDidatico1.entities.Employee;
-import exemploDidatico1.services.BrazilTaxService;
 import exemploDidatico1.services.PensionService;
 import exemploDidatico1.services.SalaryService;
 import exemploDidatico1.services.TaxService;
@@ -23,7 +22,7 @@ public class Program {
 		
 		Employee employee = new Employee(name, grossSalary);
 		
-		TaxService taxService = new BrazilTaxService();
+		TaxService taxService = new TaxService();
 		PensionService pensionService = new PensionService();
 		
 		SalaryService salaryService = new SalaryService(taxService, pensionService);
