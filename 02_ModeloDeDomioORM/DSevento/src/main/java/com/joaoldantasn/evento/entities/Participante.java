@@ -1,38 +1,37 @@
 package com.joaoldantasn.evento.entities;
 
-import java.time.Instant;
+import java.util.HashSet;
 import java.util.Objects;
+import java.util.Set;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "tb_bloco")
-public class Bloco {
+@Table(name = "tb_participante")
+public class Participante {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
-	private Instant inicio;
-	private Instant fim;
+	private String nome;
+	private String email;
 	
-	@ManyToOne
-	@JoinColumn(name = "atividade_id")
-	private Atividade atividade;
+	@ManyToMany(mappedBy = "participantes")
+	private Set<Atividade> atividades = new HashSet<>();
 	
-	public Bloco() {
+	public Participante() {
 		
 	}
 
-	public Bloco(Integer id, Instant inicio, Instant fim) {
+	public Participante(Integer id, String nome, String email) {
 		this.id = id;
-		this.inicio = inicio;
-		this.fim = fim;
+		this.nome = nome;
+		this.email = email;
 	}
 
 	public Integer getId() {
@@ -43,28 +42,24 @@ public class Bloco {
 		this.id = id;
 	}
 
-	public Instant getInicio() {
-		return inicio;
+	public String getNome() {
+		return nome;
 	}
 
-	public void setInicio(Instant inicio) {
-		this.inicio = inicio;
+	public void setNome(String nome) {
+		this.nome = nome;
 	}
 
-	public Instant getFim() {
-		return fim;
+	public String getEmail() {
+		return email;
 	}
 
-	public void setFim(Instant fim) {
-		this.fim = fim;
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
-	public Atividade getAtividade() {
-		return atividade;
-	}
-
-	public void setAtividade(Atividade atividade) {
-		this.atividade = atividade;
+	public Set<Atividade> getAtividades() {
+		return atividades;
 	}
 
 	@Override
@@ -80,8 +75,8 @@ public class Bloco {
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		Bloco other = (Bloco) obj;
+		Participante other = (Participante) obj;
 		return Objects.equals(id, other.id);
 	}
-	
+
 }
