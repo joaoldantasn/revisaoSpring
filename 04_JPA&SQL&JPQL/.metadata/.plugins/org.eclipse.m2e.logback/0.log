@@ -47,3 +47,13 @@
 2023-09-25 21:59:28,222 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-09-25 21:59:28,231 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-09-25 21:59:28,240 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace\revisaoSpring\04_JPA&SQL&JPQL\aula-salvar-para-um\src\test\resources
+2023-09-25 22:11:18,081 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:11:18,157 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:11:18,164 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace\revisaoSpring\04_JPA&SQL&JPQL\aula-salvar-para-um\src\test\resources
+2023-09-25 22:13:51,531 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:13:51,573 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:13:51,672 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace\revisaoSpring\04_JPA&SQL&JPQL\aula-salvar-para-um\src\test\resources
+2023-09-25 22:26:32,816 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:26:32,833 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-09-25 22:26:32,843 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\workspace\revisaoSpring\04_JPA&SQL&JPQL\aula-salvar-para-um\src\test\resources
+2023-09-25 22:27:47,549 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
