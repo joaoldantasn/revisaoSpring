@@ -84,7 +84,6 @@ INDEX VERSION 1.132+C:\workspace\revisaoSpring\04_JPA&SQL&JPQL\.metadata\.plugin
 2534870788.index
 3503779851.index
 753740483.index
-4055132265.index
 4012387228.index
 2192356311.index
 3606004665.index
