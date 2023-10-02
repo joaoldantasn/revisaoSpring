@@ -199,3 +199,41 @@
 2023-10-01 21:07:37,703 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2023-10-01 21:07:37,706 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-10-01 21:07:37,706 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:13:31,320 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:13:31,320 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-01 21:13:31,321 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-01 21:13:31,324 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:13:31,324 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:18:39,473 [Worker-121: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:demo:0.0.1-SNAPSHOT @ C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\pom.xml.
+2023-10-01 21:18:42,371 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:18:42,374 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-01 21:18:42,374 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-01 21:18:42,377 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:18:42,377 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:19:10,109 [Worker-121: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-01 21:19:10,402 [Worker-121: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:demo:0.0.1-SNAPSHOT @ C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\pom.xml.
+2023-10-01 21:19:11,258 [Worker-121: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2023-10-01 21:19:11,258 [Worker-121: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-10-01 21:19:11,259 [Worker-121: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-10-01 21:19:11,260 [Worker-121: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2023-10-01 21:19:11,802 [Worker-121: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2023-10-01 21:19:13,183 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:19:13,184 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:19:13,323 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:19:13,379 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:19:13,380 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:21:25,411 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:21:25,414 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:21:25,420 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:21:25,424 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:21:25,424 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:21:44,749 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:21:44,752 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:21:44,757 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:21:44,773 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:21:44,773 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
+2023-10-01 21:22:44,931 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:22:44,933 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:22:44,940 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-10-01 21:22:44,945 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-10-01 21:22:44,946 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\revisaoSpring\05_LOGIN&CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth\src\test\resources
