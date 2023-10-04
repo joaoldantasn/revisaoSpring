@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\workspace\revisaoSpring\05_LOGIN&amp;CONTROLEACESSO\DScommerce4"/>
 			<item value="C:\workspace\revisaoSpring\05_LOGIN&amp;CONTROLEACESSO\spring-boot-oauth2-jwt-demo\password-grant\spring-boot-3-1-0-noauth"/>
 		</list>
 		<list key="projectNameTemplate">
